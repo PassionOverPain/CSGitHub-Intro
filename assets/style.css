@@ -78,7 +78,7 @@ p {
   border: 10px solid;
   border-image-slice: 1;
   border-width: 3px;
-  box-shadow: 10px 10px 5px 1px rgba(82, 81, 85, 0.25);
+  box-shadow: 10px 10px 15px 10px rgba(82, 81, 85, 0.25);
   border-image-source: linear-gradient(90deg, var(--pink) 0%, var(--orange) 100%);
 }
 
@@ -214,9 +214,9 @@ footer {
 }
 
 .card:hover {
-  -webkit-box-shadow: 1px 1px 5px 1px rgba(82, 81, 85, 0.5);
-  -moz-box-shadow: 1px 1px 5px 1px rgba(82, 81, 85, 0.5);
-  box-shadow: 2px 2px 5px 2px rgba(82, 81, 85, 0.35);
+  -webkit-box-shadow: 10px 10px 15px 10px rgba(82, 81, 85, 0.5);
+  -moz-box-shadow: 10px 10px 25px 10px rgba(82, 81, 85, 0.5);
+  box-shadow: 10px 10px 15px 10px rgba(82, 81, 85, 0.35);
   transform: translateY(-5px);
 }
 
