@@ -433,7 +433,7 @@ body.night {
   padding: 12px; /* Some padding */
   border-radius: 8.471rem !important;
   width: 3.088rem;
-  height: 3.088rem;
+  height: 3.088rem !important;
 }
 
 @keyframes animate {
