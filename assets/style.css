@@ -303,7 +303,7 @@ body.night {
 
 .night.card .resources:hover {
   color: var(--pink);
-  background-color: linear-gradient(90deg, var(--pink) 0%, var(--orange) 100%);
+  background-color: var(--purple);
 }
 
 .night #searchbar {
